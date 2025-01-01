@@ -6,7 +6,18 @@ I report these here.
    as0.exe downloaded from 
    https://deramp.com/downloads/swtpc/software/6800%20Cross%20Assembler%20(Windows)/
    nop(s) are needed to wait zero flag polls.
-3. ALTAIR BASIC run
-4. figforth run
+3. ALTAIR BASIC run(procedure to run only)
+   download this s19 https://deramp.com/swtpc.com/Altair/MITS_RAW.TXT
+   edit Srecord only
+   change lf to crlf
+   attach pico to usb and open teraterm or simbleCRT.exe
+   put L command to picobug
+   send file (converted) to pico
+   after upload put J 0000
+   PUT Enter to console
+   PUT 80 to console
+   PUT Y to console
+   MITS ALTAIR 680 BASIC VERSION 1.1 REV 3.2 reveals
+5. figforth run
 
 Enjoy!
