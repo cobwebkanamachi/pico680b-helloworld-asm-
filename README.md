@@ -6,6 +6,7 @@ I report these here.
    as0.exe downloaded from 
    https://deramp.com/downloads/swtpc/software/6800%20Cross%20Assembler%20(Windows)/
    nop(s) are needed to wait zero flag polls.
+   d.s19 is output of as0.exe
 3. ALTAIR BASIC run(procedure to run only)<PRE>
    download this s19 https://deramp.com/swtpc.com/Altair/MITS_RAW.TXT
    edit Srecord only
