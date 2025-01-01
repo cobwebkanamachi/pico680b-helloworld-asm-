@@ -32,5 +32,13 @@ I report these here.
    OK
    </PRE>
 5. figforth run
-
+   NOTICE: SHOULD ALWAYS CAPs ON! to use picobug(monitor)
+   <PRE>
+   >J 1000
+   Forth-68
+   OK
+   1 3 + . 4  OK
+   2 9 * . 18  OK
+   </PRE>   
+   
 Enjoy!
