@@ -6,7 +6,7 @@ I report these here.
    as0.exe downloaded from 
    https://deramp.com/downloads/swtpc/software/6800%20Cross%20Assembler%20(Windows)/
    nop(s) are needed to wait zero flag polls.
-3. ALTAIR BASIC run(procedure to run only)
+3. ALTAIR BASIC run(procedure to run only)<PRE>
    download this s19 https://deramp.com/swtpc.com/Altair/MITS_RAW.TXT
    edit Srecord only
    change lf to crlf
@@ -26,7 +26,7 @@ I report these here.
    50906 BYTES FREE
    MITS ALTAIR 680 BASIC VERSION 1.1 REV 3.2
    COPYRIGHT 1976 BY MITS INC.
-   OK
+   OK</PRE>
 5. figforth run
 
 Enjoy!
