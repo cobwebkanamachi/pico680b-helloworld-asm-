@@ -18,6 +18,15 @@ I report these here.
    PUT 80 to console
    PUT Y to console
    MITS ALTAIR 680 BASIC VERSION 1.1 REV 3.2 reveals
+   like this bellow.
+   >J 0000
+   MEMORY SIZE?
+   TERMINAL WIDTH? 80
+   WANT SIN-COS-TAN-ATN? Y
+   50906 BYTES FREE
+   MITS ALTAIR 680 BASIC VERSION 1.1 REV 3.2
+   COPYRIGHT 1976 BY MITS INC.
+   OK
 5. figforth run
 
 Enjoy!
