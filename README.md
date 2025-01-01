@@ -26,7 +26,11 @@ I report these here.
    50906 BYTES FREE
    MITS ALTAIR 680 BASIC VERSION 1.1 REV 3.2
    COPYRIGHT 1976 BY MITS INC.
-   OK</PRE>
+   OK
+   PRINT(1+4)
+   5
+   OK
+   </PRE>
 5. figforth run
 
 Enjoy!
